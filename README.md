@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 <a href = 'https://www.github.com/aminzayer'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <br>
 <br>
+![Metrics](https://github.com/aminzayer/aminzayer/blob/main/github-metrics.svg)
 
 ![Amin's github stats](https://github-readme-stats.vercel.app/api?username=aminzayer&show_icons=true&theme=tokyonight) | ![Amin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminzayer&theme=tokyonight) |
 | --- | --- |
