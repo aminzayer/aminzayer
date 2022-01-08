@@ -14,3 +14,4 @@ jobs:
         with:
            # ... other options
            template: classic
+           token: ${{ secrets.METRICS_TOKEN }}
