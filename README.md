@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, programming, AI, ML and DL.
 
 <h3> Download My Resume</h3>
-Download my resume here 
 
-![Click Download resume](https://aminzayer.ir/assets/Amin-Zayeromali-Resume-Data-Scientist.pdf)
+![Download My Resume](https://aminzayer.ir/assets/Amin-Zayeromali-Resume-Data-Scientist.pdf)
 
 <h2> Skills </h2>
 - Programming Python,PHP,C & C++,C#.Net,VB
