@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <h3> Download My Resume</h3>
 
-![My Resume](https://aminzayer.ir/assets/Amin-Zayeromali-Resume-Data-Scientist.pdf)
+<a href = 'https://aminzayer.ir/assets/Amin-Zayeromali-Resume-Data-Scientist.pdf'> Download My Resume (Click) </a>
 
 <h2> Skills </h2>
 - Programming Python,PHP,C & C++,C#.Net,VB
