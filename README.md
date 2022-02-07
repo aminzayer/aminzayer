@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working Freelance
+- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -24,13 +24,16 @@ Here are some ideas to get you started:
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on Senior Software Development Engineer & Data Scientist 
+- 🔭 I’m currently working on Freelance ( Senior Software Development Engineer & Data Scientist )
   
 - 🌱 I’m currently learning Data Science & Python
   
 - 👯 I’m looking to collaborate on new Startup projects (Remotly) and ideas & Seeking New Opportunities 
   
 - 💬 Ask me about Python, programming, AI, ML and DL.
+
+<h3> Download My Resume</h3>
+Download my resume here ![Click Download resume](https://aminzayer.ir/assets/Amin-Zayeromali-Resume-Data-Scientist.pdf)
 
 <h2> Skills </h2>
 - Programming Python,PHP,C & C++,C#.Net,VB
