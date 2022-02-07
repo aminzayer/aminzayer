@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <h3> Download My Resume</h3>
 
-![Download My Resume](https://aminzayer.ir/assets/Amin-Zayeromali-Resume-Data-Scientist.pdf)
+![My Resume](https://aminzayer.ir/assets/Amin-Zayeromali-Resume-Data-Scientist.pdf)
 
 <h2> Skills </h2>
 - Programming Python,PHP,C & C++,C#.Net,VB
