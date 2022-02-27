@@ -1,23 +1,10 @@
 ### Hi there 👋
 
-<!--
-**aminzayer/aminzayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working Freelance
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=aminzayer.aminzayer)
 [![Github](https://img.shields.io/github/followers/aminzayer?label=Follow&style=social)](https://github.com/aminzayer)
+[![Github](https://img.shields.io/github/followers/aminzayer?style=social)](https://github.com/aminzayer) 
+[![Github](https://img.shields.io/github/stars/aminzayer/aminzayer?style=social)](https://github.com/aminzayer/aminzayer)
+[![Github](https://img.shields.io/github/watchers/aminzayer/aminzayer?style=social)](https://github.com/aminzayer/aminzayer)
 
 <div size='20px'> My name is Amin Zayeromali. Thanks for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -48,6 +35,49 @@ Here are some ideas to get you started:
 - Database : SQL , MYSql , Ms Access
 - <br>
 - Css & Html & Javascript
+
+<h2> My Main Repo on GitHub </h2>
+
+List of repositories I'm working on.
+
+- Section related to data science
+
+    - <a href = 'https://github.com/aminzayer/Amin-University-Data-Science'>Amin University Data Science</a>
+
+    - <a href = 'https://github.com/aminzayer/Deep-Learning'>Deep Learning</a>
+
+    - <a href = 'https://github.com/aminzayer/Data-Mining'>Data Mining</a>
+
+    - <a href = 'https://github.com/aminzayer/K-Means'>K-Means</a>
+
+    - <a href = 'https://github.com/aminzayer/DBSCAN-Clustering-Python'>DBSCAN Clustering</a>
+
+    - <a href = 'https://github.com/aminzayer/KNN-Regressor-Evalution'>KNN Regressor Evalution</a>
+
+    - <a href = 'https://github.com/aminzayer/Hiehierarchical-clustering'>Hiehierarchical clustering</a>
+
+    - <a href = 'https://github.com/aminzayer/Iran-Stock-Prediction'>Iran Stock Prediction</a>
+
+    - <a href = 'https://github.com/aminzayer/My-Aws-Code'>My Aws Code (Private) </a>
+
+    - <a href = 'https://github.com/aminzayer/University-Projects'>University Projects (Private) </a>
+
+- Section related to software engineering 
+
+    - <a href = 'https://github.com/aminzayer/My-Python-Code'>My Python Code</a>
+
+    - <a href = 'https://github.com/aminzayer/Pyhton-Django'>Pyhton Django</a>
+
+    - <a href = 'https://github.com/aminzayer/Python-Flask'>Python Flask</a>
+
+    - <a href = 'https://github.com/aminzayer/My-PHP-Code'>My PHP Code</a>
+
+    - <a href = 'https://github.com/aminzayer/PHP-Simple-Cache-Engine'>PHP Simple Cache Engine</a>
+
+    - <a href = 'https://github.com/aminzayer/C-Apps'>C-Apps</a>
+
+    - <a href = 'https://github.com/aminzayer/CPPApps'>CPPApps</a>
+
 
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/aminzayeromali'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
