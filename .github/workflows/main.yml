@@ -4,7 +4,7 @@ on:
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: {branches: ["master", "main","deploy"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -15,3 +15,10 @@ jobs:
            # ... other options
            template: classic
            token: ${{ secrets.METRICS_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+            filename: metrics.plugin.followup.user.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_followup: yes
+            plugin_followup_sections: user
