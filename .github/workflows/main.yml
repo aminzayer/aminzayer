@@ -17,8 +17,8 @@ jobs:
            token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
-            filename: metrics.plugin.followup.user.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            base: ""
-            plugin_followup: yes
-            plugin_followup_sections: user
+          filename: metrics.plugin.followup.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+
