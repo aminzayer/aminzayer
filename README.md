@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on Freelance ( Senior Software Development Engineer & Data Scientist )
   
-- 🌱 I’m currently learning Data Science & Python
+- 🌱 I’m currently learning & working Data Science & Python
   
 - 👯 I’m looking to collaborate on new Startup projects (Remotly) and ideas & Seeking New Opportunities 
   
@@ -23,18 +23,26 @@
 
 <a href = 'https://aminzayer.ir/assets/Amin-Zayeromali-Resume-Data-Scientist.pdf'> Download My Resume (Click) </a>
 
-<h2> Skills </h2>
-- Programming Python,PHP,C & C++,C#.Net,VB
-- <br>
-- Machine learning and Deep learning
-- <br>
-- NLP & Data Minnig & Big Data
-- <br>
-- My favorite framework : Laravel , Django 
-- <br>
-- Database : SQL , MYSql , Ms Access
-- <br>
-- Css & Html & Javascript
+<h2> SKILLS </h2>
+
+<h3> Programing Languages </h3>
+Python (expert), R (familiar) C++ & C# & VB (expert) ,SQL (expert),  JAVA (prior experience),JavaScript (expert), PHP (expert), MATLAB (prior experience)
+
+<h3>Tools</h3>
+Django, Django Rest Framework, Redis, PostgreSQL, Git, Fast API, Rest API,  Flask, Docker Compose, Nginx, Kafka, Tableau.
+
+<h3>Methodologies</h3>
+Agile, Scrum, Kanban, Scrumban (Jira, Trello)
+
+<h3>Design</h3>
+Microservice, Domain-Driven Design, Data-Driven Design, Data Visualization Design, Most Design Patterns (MVC, TMP, Decorator) .
+
+<h3>Front-End</h3>
+Html, Css, JavaScript (JQuery), Bootstrap, Data Visualization Tools
+
+<h3>Familiar & Worked with</h3>
+Unit Testing, CDN, Kubernetes, Elasticsearch, Github, CI/CD, MongoDB, Apache, AWS, Numpy, Pandas, Matplotlib, Keras, Pytorch, ANN, PNN, CNN, Optimization, Classification, Clustering, Machine Learning, Deep Learning, Data Mining, Big Data.
+
 
 <h2> My Main Repo on GitHub </h2>
 
