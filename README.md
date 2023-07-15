@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=aminzayer.aminzayer)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faminzayer%2Faminzayer&countColor=%23263759)
 [![Github](https://img.shields.io/github/stars/Devs-Dungeon?style=social)](https://github.com/aminzayer)
 [![Github](https://img.shields.io/github/followers/aminzayer?style=social)](https://github.com/aminzayer) 
 [![Github](https://img.shields.io/github/stars/aminzayer?style=social)](https://github.com/aminzayer/aminzayer)
