@@ -26,7 +26,7 @@
 <h2> SKILLS </h2>
 
 <h3> Programing Languages </h3>
-Python (expert), R (familiar) C++ & C# & VB (expert),SQL (expert),  JAVA (prior experience), JavaScript (expert), PHP (expert), MATLAB (prior experience)
+Python (expert), R (familiar) C++ & C# & VB (expert) , SQL (expert),  JAVA (prior experience), JavaScript (expert), PHP (expert), MATLAB (prior experience)
 
 <h3>Tools</h3>
 Django, Django Rest Framework, Redis, PostgreSQL, Git, Fast API, Rest API,  Flask, Docker Compose, Nginx, Kafka, Tableau.
@@ -94,7 +94,9 @@ List of repositories I'm working on.
 <a href = 'https://www.github.com/aminzayer'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <br>
 <br>
+
 ![Metrics](https://raw.githubusercontent.com/aminzayer/aminzayer/main/github-metrics.svg)
+
 ![Amin's github stats](https://github-readme-stats.vercel.app/api?username=aminzayer&show_icons=true&theme=tokyonight) | ![Amin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminzayer&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminzayer&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=aminzayer&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
