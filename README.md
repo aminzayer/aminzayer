@@ -15,9 +15,9 @@
   
 - 🌱 I’m currently learning & working Data Science & Python
   
-- 👯 I’m looking to collaborate on new Startup projects (Remotly) and ideas & Seeking New Opportunities 
+- 👯 I’m looking to collaborate on new Startup projects (Remotely) and ideas & Seeking New Opportunities 
   
-- 💬 Ask me about Python, programming, AI, ML and DL.
+- 💬 Ask me about Python, programming, AI, ML, and DL.
 
 <h3> Download My Resume</h3>
 
@@ -26,7 +26,7 @@
 <h2> SKILLS </h2>
 
 <h3> Programing Languages </h3>
-Python (expert), R (familiar) C++ & C# & VB (expert) ,SQL (expert),  JAVA (prior experience),JavaScript (expert), PHP (expert), MATLAB (prior experience)
+Python (expert), R (familiar) C++ & C# & VB (expert),SQL (expert),  JAVA (prior experience), JavaScript (expert), PHP (expert), MATLAB (prior experience)
 
 <h3>Tools</h3>
 Django, Django Rest Framework, Redis, PostgreSQL, Git, Fast API, Rest API,  Flask, Docker Compose, Nginx, Kafka, Tableau.
@@ -35,10 +35,10 @@ Django, Django Rest Framework, Redis, PostgreSQL, Git, Fast API, Rest API,  Flas
 Agile, Scrum, Kanban, Scrumban (Jira, Trello)
 
 <h3>Design</h3>
-Microservice, Domain-Driven Design, Data-Driven Design, Data Visualization Design, Most Design Patterns (MVC, TMP, Decorator) .
+Microservice, Domain-Driven Design, Data-Driven Design, Data Visualization Design, and Most Design Patterns (MVC, TMP, Decorator).
 
 <h3>Front-End</h3>
-Html, Css, JavaScript (JQuery), Bootstrap, Data Visualization Tools
+Html, CSS, JavaScript (JQuery), Bootstrap, and Data Visualization Tools
 
 <h3>Familiar & Worked with</h3>
 Unit Testing, CDN, Kubernetes, Elasticsearch, Github, CI/CD, MongoDB, Apache, AWS, Numpy, Pandas, Matplotlib, Keras, Pytorch, ANN, PNN, CNN, Optimization, Classification, Clustering, Machine Learning, Deep Learning, Data Mining, Big Data.
@@ -93,10 +93,9 @@ List of repositories I'm working on.
 <a href = 'https://aminzayer.ir/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/aminzayer'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <br>
-<br>
-
+<be>
+<center>
 ![Metrics](https://raw.githubusercontent.com/aminzayer/aminzayer/main/github-metrics.svg)
-
+</center>
 ![Amin's github stats](https://github-readme-stats.vercel.app/api?username=aminzayer&show_icons=true&theme=tokyonight) | ![Amin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminzayer&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminzayer&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=aminzayer&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
