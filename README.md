@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/github/stars/aminzayer?style=social)](https://github.com/aminzayer/aminzayer)
 [![Github](https://img.shields.io/github/watchers/aminzayer/aminzayer?style=social)](https://github.com/aminzayer/aminzayer)
 
-<div size='20px'> My name is Amin Zayeromali. Thanks for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> My name is Amin. Thanks for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me </h2>
@@ -15,7 +15,7 @@
   
 - 🌱 I’m currently learning & working Data Science & Python
   
-- 👯 I’m looking to collaborate on new Startup projects (Remotely) and ideas & Seeking New Opportunities 
+- 👯 I’m looking to collaborate on new Startup projects (Remotely) and ideas and seeking New Opportunities 
   
 - 💬 Ask me about Python, programming, AI, ML, and DL.
 
