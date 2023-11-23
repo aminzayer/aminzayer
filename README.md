@@ -66,9 +66,8 @@ List of repositories I'm working on.
 
     - <a href = 'https://github.com/aminzayer/Iran-Stock-Prediction'>Iran Stock Prediction</a>
 
-    - <a href = 'https://github.com/aminzayer/My-Aws-Code'>My Aws Code (Private) </a>
 
-    - <a href = 'https://github.com/aminzayer/University-Projects'>University Projects (Private) </a>
+    - <a href = 'https://github.com/aminzayer/University-Projects'>University Projects (Academic & Traditional ML Algorithms)</a>
 
 - Section related to software engineering 
 
