@@ -9,24 +9,20 @@
 <div size='20px'> My name is Amin. Thanks for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me </h2>
+<h2>About Me</h2>
 
-- 🔭 I’m currently working on Freelance ( Senior Software Development Engineer & Data Scientist )
-  
-- 🌱 I’m currently learning & working Data Science & Python
-  
-- 👯 I’m looking to collaborate on new Startup projects (Remotely) and ideas and seeking New Opportunities 
-  
-- 💬 Ask me about Python, programming, AI, ML, and DL.
+- 🔭 Currently, I'm a Full Stack Data Scientist at Factually Health, where I harness the power of data to drive impactful decisions and innovations.
 
-<h3> Download My Resume</h3>
+- 🌱 My passion lies in the realms of Data Science, NLP, Deep Learning, and Python. I'm constantly learning and exploring new frontiers in these fields.
 
-<a href = 'https://aminzayer.ir/assets/Amin-Zayeromali-Resume-Data-Scientist.pdf'> Download My Resume (Click) </a>
+- 👯 I'm eager to collaborate on cutting-edge Startup projects (Remotely) and open to exploring exciting new opportunities. Let's bring innovative ideas to life together!
+
+- 💬 Have a question about Python, AI, Machine Learning, Deep Learning, or data-driven strategies? Feel free to reach out—I love discussing these topics and sharing insights!
 
 <h2> SKILLS </h2>
 
 <h3> Programing Languages </h3>
-Python (expert), R (familiar) C++ & C# & VB (expert) , SQL (expert),  JAVA (prior experience), JavaScript (expert), PHP (expert), MATLAB (prior experience)
+Python (expert), R (familiar) C++ & C# & VB (expert), SQL (expert),  JAVA (prior experience), JavaScript (expert), PHP (expert), MATLAB (prior experience)
 
 <h3>Tools</h3>
 Django, Django Rest Framework, Redis, PostgreSQL, Git, Fast API, Rest API,  Flask, Docker Compose, Nginx, Kafka, Tableau.
