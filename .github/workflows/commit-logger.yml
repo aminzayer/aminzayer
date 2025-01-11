@@ -2,8 +2,8 @@ name: Commit Logger
 
 on:
   push:
-    branches: # Run on all branches, including 'main'
-      - "**"
+    branches:
+      - "**" # Run on all branches
 
 jobs:
   log-commits:
@@ -38,4 +38,9 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git commit -m "Updated commit list from branch ${{ github.ref_name }}"
+
+      # Step 5: Pull and Push Changes
+      - name: Pull and Push Changes
+        run: |
+          git pull --rebase origin main
           git push origin main
