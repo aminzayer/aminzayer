@@ -1,9 +1,7 @@
 name: Activity Logger
 
 on:
-  schedule:
-    - cron: "0 */12 * * *" # اجرای خودکار هر ۱۲ ساعت
-  workflow_dispatch: # قابلیت اجرای دستی از طریق GitHub Actions
+  workflow_dispatch:
 
 jobs:
   log-activity:
@@ -21,6 +19,10 @@ jobs:
         run: |
           echo "Fetching user activity..." > activity_report.txt
           echo "--------------------------------" >> activity_report.txt
+
+          # Add timestamp to the log
+          echo "Log generated at: $(date)" >> activity_report.txt
+          echo "" >> activity_report.txt
 
           # Fetch commits in the last 30 days
           COMMIT_COUNT=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
@@ -40,16 +42,41 @@ jobs:
             | jq '.total_count')
           echo "Issues opened in the last 30 days: $ISSUE_COUNT" >> activity_report.txt
 
+          # Fetch repositories the user contributed to
+          CONTRIBUTED_REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/users/${{ github.actor }}/repos" \
+            | jq '.[].full_name' | wc -l)
+          echo "Repositories contributed to: $CONTRIBUTED_REPOS" >> activity_report.txt
+
+          # Fetch stars gained by the user's repositories
+          STAR_COUNT=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/users/${{ github.actor }}" \
+            | jq '.public_repos')
+          echo "Total stars across public repositories: $STAR_COUNT" >> activity_report.txt
+
+          # Fetch review comments by the user
+          REVIEW_COUNT=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/search/issues?q=type:pr+reviewed-by:${{ github.actor }}+updated:>$(date -d '30 days ago' +%Y-%m-%d)" \
+            | jq '.total_count')
+          echo "Pull Request Reviews in the last 30 days: $REVIEW_COUNT" >> activity_report.txt
+
           echo "--------------------------------" >> activity_report.txt
           echo "Activity report collected successfully!"
 
-      # Step 3: Update activity report in the repository
-      - name: Update activity report
+      # Step 3: Append activity report to the log file with timestamp
+      - name: Append activity report to log
         run: |
-          cp activity_report.txt activity_log.txt
+          echo "" >> activity_log.txt
+          echo "==========================================" >> activity_log.txt
+          cat activity_report.txt >> activity_log.txt
+          echo "==========================================" >> activity_log.txt
+
+      # Step 4: Commit and push changes
+      - name: Commit and push changes
+        run: |
           git add activity_log.txt
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git commit -m "Updated activity report"
+          git commit -m "Updated activity log at $(date)"
           git pull --rebase origin main
           git push origin main
