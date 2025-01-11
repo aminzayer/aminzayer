@@ -14,12 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2: Skip the workflow for your profile repository
-      - name: Skip for profile repository
-        run: echo "Skipping workflow for repository: aminzayer/aminzayer"
-        continue-on-error: true
-
-      # Step 3: Get commit list
+      # Step 2: Get commit list
       - name: Get commit list
         id: commit_info
         run: |
@@ -29,13 +24,13 @@ jobs:
           echo "--------------------------------" >> commit_list.txt
           echo "Done collecting commit IDs!"
 
-      # Step 4: Switch to the main branch
+      # Step 3: Switch to the main branch
       - name: Switch to main branch
         run: |
           git fetch origin main
           git checkout main
 
-      # Step 5: Update commit list
+      # Step 4: Update commit list
       - name: Update commit list
         run: |
           cat commit_list.txt >> all_commits.log
