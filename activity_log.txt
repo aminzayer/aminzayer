@@ -1,0 +1,6 @@
+Fetching user activity...
+--------------------------------
+Commits in the last 30 days: 10
+Pull Requests created in the last 30 days: 0
+Issues opened in the last 30 days: 0
+--------------------------------
