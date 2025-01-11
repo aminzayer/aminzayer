@@ -1,0 +1,50 @@
+name: Commit Logger
+
+on:
+  push:
+    branches: # Run on all branches, including 'main'
+      - "**"
+
+jobs:
+  log-commits:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Skip the workflow for your profile repository
+      - name: Skip for profile repository
+        if: ${{ github.repository == 'aminzayer/aminzayer' }}
+        run: echo "Skipping workflow for repository: aminzayer/aminzayer"
+        continue-on-error: true
+
+      # Step 3: Get commit list
+      - name: Get commit list
+        if: ${{ github.repository != 'aminzayer/aminzayer' }}
+        id: commit_info
+        run: |
+          echo "Commits from this push:" > commit_list.txt
+          echo "--------------------------------" >> commit_list.txt
+          echo "${{ github.event.commits[*].id }}" >> commit_list.txt
+          echo "--------------------------------" >> commit_list.txt
+          echo "Done collecting commit IDs!"
+
+      # Step 4: Switch to the main branch
+      - name: Switch to main branch
+        if: ${{ github.repository != 'aminzayer/aminzayer' }}
+        run: |
+          git fetch origin main
+          git checkout main
+
+      # Step 5: Update commit list
+      - name: Update commit list
+        if: ${{ github.repository != 'aminzayer/aminzayer' }}
+        run: |
+          cat commit_list.txt >> all_commits.log
+          git add all_commits.log
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git commit -m "Updated commit list from branch ${{ github.ref_name }}"
+          git push origin main
