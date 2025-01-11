@@ -1,12 +1,12 @@
-name: Commit Logger
+name: Activity Logger
 
 on:
-  push:
-    branches:
-      - "**" # Run on all branches
+  schedule:
+    - cron: "0 */12 * * *" # اجرای خودکار هر ۱۲ ساعت
+  workflow_dispatch: # قابلیت اجرای دستی از طریق GitHub Actions
 
 jobs:
-  log-commits:
+  log-activity:
     runs-on: ubuntu-latest
 
     steps:
@@ -14,33 +14,42 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2: Get commit list
-      - name: Get commit list
-        id: commit_info
+      # Step 2: Fetch user activity using GitHub API
+      - name: Fetch user activity
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "Commits from this push:" > commit_list.txt
-          echo "--------------------------------" >> commit_list.txt
-          echo "${{ github.event.commits[*].id }}" >> commit_list.txt
-          echo "--------------------------------" >> commit_list.txt
-          echo "Done collecting commit IDs!"
+          echo "Fetching user activity..." > activity_report.txt
+          echo "--------------------------------" >> activity_report.txt
 
-      # Step 3: Switch to the main branch
-      - name: Switch to main branch
-        run: |
-          git fetch origin main
-          git checkout main
+          # Fetch commits in the last 30 days
+          COMMIT_COUNT=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/search/commits?q=author:${{ github.actor }}+committer-date:>$(date -d '30 days ago' +%Y-%m-%d)" \
+            | jq '.total_count')
+          echo "Commits in the last 30 days: $COMMIT_COUNT" >> activity_report.txt
 
-      # Step 4: Update commit list
-      - name: Update commit list
+          # Fetch pull requests created by the user
+          PR_COUNT=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/search/issues?q=author:${{ github.actor }}+type:pr+created:>$(date -d '30 days ago' +%Y-%m-%d)" \
+            | jq '.total_count')
+          echo "Pull Requests created in the last 30 days: $PR_COUNT" >> activity_report.txt
+
+          # Fetch issues opened by the user
+          ISSUE_COUNT=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/search/issues?q=author:${{ github.actor }}+type:issue+created:>$(date -d '30 days ago' +%Y-%m-%d)" \
+            | jq '.total_count')
+          echo "Issues opened in the last 30 days: $ISSUE_COUNT" >> activity_report.txt
+
+          echo "--------------------------------" >> activity_report.txt
+          echo "Activity report collected successfully!"
+
+      # Step 3: Update activity report in the repository
+      - name: Update activity report
         run: |
-          cat commit_list.txt >> all_commits.log
-          git add all_commits.log
+          cp activity_report.txt activity_log.txt
+          git add activity_log.txt
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git commit -m "Updated commit list from branch ${{ github.ref_name }}"
-
-      # Step 5: Pull and Push Changes
-      - name: Pull and Push Changes
-        run: |
+          git commit -m "Updated activity report"
           git pull --rebase origin main
           git push origin main
