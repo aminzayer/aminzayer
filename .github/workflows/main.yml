@@ -9,14 +9,14 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
       - name: Metrics embed
-      - uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@v3.34
         with:
-           # ... other options
-           template: classic
-           token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@v3.34
+          template: classic
+          token: ${{ secrets.METRICS_TOKEN }}
+      
+      - name: Metrics follow-up
+        uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.plugin.followup.svg
           token: ${{ secrets.METRICS_TOKEN }}
