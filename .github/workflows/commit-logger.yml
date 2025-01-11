@@ -16,13 +16,11 @@ jobs:
 
       # Step 2: Skip the workflow for your profile repository
       - name: Skip for profile repository
-        if: ${{ github.repository == 'aminzayer/aminzayer' }}
         run: echo "Skipping workflow for repository: aminzayer/aminzayer"
         continue-on-error: true
 
       # Step 3: Get commit list
       - name: Get commit list
-        if: ${{ github.repository != 'aminzayer/aminzayer' }}
         id: commit_info
         run: |
           echo "Commits from this push:" > commit_list.txt
@@ -33,14 +31,12 @@ jobs:
 
       # Step 4: Switch to the main branch
       - name: Switch to main branch
-        if: ${{ github.repository != 'aminzayer/aminzayer' }}
         run: |
           git fetch origin main
           git checkout main
 
       # Step 5: Update commit list
       - name: Update commit list
-        if: ${{ github.repository != 'aminzayer/aminzayer' }}
         run: |
           cat commit_list.txt >> all_commits.log
           git add all_commits.log
