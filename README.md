@@ -90,7 +90,7 @@ List of repositories I'm working on.
 <br>
 <br>
 
-![Metrics](https://raw.githubusercontent.com/aminzayer/aminzayer/main/github-metrics.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aminzayer&theme=merko)](https://git.io/streak-stats)
 
 ![Amin's github stats](https://github-readme-stats.vercel.app/api?username=aminzayer&show_icons=true&theme=tokyonight) | ![Amin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminzayer&theme=tokyonight) |
 | --- | --- |
