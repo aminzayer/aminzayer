@@ -13,10 +13,27 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m a **Full Stack Data Scientist** at **Factually Health**, building scalable, real-world ML systems that impact healthcare.
-- 🧠 Passionate about **AI, NLP, Deep Learning, MLOps**, and **End-to-End Productization**.
-- 🌍 Open to **remote collaborations** on data-driven startups, research, and open-source initiatives.
-- 💬 I love discussing **Python, LLMs, Edge AI, and modern AI Infrastructure**—DM me any time!
+- 🔭 I’m Amin Zay — a **Full Stack Data Scientist / Senior AI Engineer** working at the intersection of real-world data, scalable backend systems, and modern LLM architectures.
+
+💡 I believe the real challenge in LLM adoption isn’t the model, it’s the pipeline.
+
+Over the past decade, I’ve evolved from building classical ML models to designing robust data and AI systems that embed LLMs into business logic, not just the UI. My focus is on **LLM pipelines, context-aware agents**, and **scalable AI infrastructure**.
+
+🔹 I recently led the integration of ChatGPT APIs with Retrieval-Augmented Generation (RAG) in a high-availability backend, where real-time inference demanded smart data routing and prompt engineering.
+
+🔹 In healthcare, I’ve driven development of LLM-based analytics tools using domain-tuned prompting and fine-tuning to improve patient outcomes.
+
+🔹 My engineering toolkit includes: Django, Redis, PostgreSQL, Docker, AWS, CI/CD pipelines - all optimized for production-level AI workloads.
+
+🧠 I’m currently exploring Agent Communication Protocol (ACP) and Model Context Protocol (MCP), where LLMs evolve into decision-making collaborators across pipelines.
+
+What excites me most:
+- ✅ AI agents embedded in developer workflows & analytics platforms  
+- ✅ Semantic search & contextual reasoning powered by real-time pipelines  
+- ✅ Architecting ML systems that *deliver*, not just demonstrate
+
+Let’s connect if you’re working on:
+**#LLM #RAG #AIEngineering #PromptEngineering #MCP #ACP #SemanticSearch #ScalableAI #DataPipelines #MLinProduction #RealWorldAI**
 
 ---
 
