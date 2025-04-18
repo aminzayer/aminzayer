@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m Amin Zay — a **Full Stack Data Scientist / Senior AI Engineer** working at the intersection of real-world data, scalable backend systems, and modern LLM architectures.
+🔭 I’m Amin Zay - a **Full Stack Data Scientist / Senior AI Engineer** working at the intersection of real-world data, scalable backend systems, and modern LLM architectures.
 
 💡 I believe the real challenge in LLM adoption isn’t the model, it’s the pipeline.
 
