@@ -1,94 +1,83 @@
-### Hi there 👋
+### Hi there 👋 Welcome to My GitHub
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faminzayer%2Faminzayer&countColor=%23263759&style=plastic)
-[![Github](https://img.shields.io/github/stars/Devs-Dungeon?style=social)](https://github.com/aminzayer)
-[![Github](https://img.shields.io/github/followers/aminzayer?style=social)](https://github.com/aminzayer) 
-[![Github](https://img.shields.io/github/stars/aminzayer?style=social)](https://github.com/aminzayer/aminzayer)
-[![Github](https://img.shields.io/github/watchers/aminzayer/aminzayer?style=social)](https://github.com/aminzayer/aminzayer)
+[![Github Stars](https://img.shields.io/github/stars/Devs-Dungeon?style=social)](https://github.com/aminzayer)
+[![Github Followers](https://img.shields.io/github/followers/aminzayer?style=social)](https://github.com/aminzayer) 
+[![Profile Stars](https://img.shields.io/github/stars/aminzayer?style=social)](https://github.com/aminzayer/aminzayer)
+[![Watchers](https://img.shields.io/github/watchers/aminzayer/aminzayer?style=social)](https://github.com/aminzayer/aminzayer)
 
-<div size='20px'> My name is Amin. Thanks for taking the time to view my GitHub Profile :smile: 
+<div size='20px'>Hi, I'm Amin 👨‍💻 — thanks for visiting my GitHub profile!
 </div>
 
-<h2>About Me</h2>
+---
 
-- 🔭 Currently, I'm a Full Stack Data Scientist at Factually Health, where I harness the power of data to drive impactful decisions and innovations.
+## 🚀 About Me
 
-- 🌱 My passion lies in the realms of Data Science, NLP, Deep Learning, and Python. I'm constantly learning and exploring new frontiers in these fields.
+- 🔭 I’m a **Full Stack Data Scientist** at **Factually Health**, building scalable, real-world ML systems that impact healthcare.
+- 🧠 Passionate about **AI, NLP, Deep Learning, MLOps**, and **End-to-End Productization**.
+- 🌍 Open to **remote collaborations** on data-driven startups, research, and open-source initiatives.
+- 💬 I love discussing **Python, LLMs, Edge AI, and modern AI Infrastructure**—DM me any time!
 
-- 👯 I'm eager to collaborate on cutting-edge Startup projects (Remotely) and open to exploring exciting new opportunities. Let's bring innovative ideas to life together!
+---
 
-- 💬 Have a question about Python, AI, Machine Learning, Deep Learning, or data-driven strategies? Feel free to reach out—I love discussing these topics and sharing insights!
+## 🛠️ Tech Stack
 
-<h2> SKILLS </h2>
+### 💻 Programming Languages  
+Python (Expert), R (Familiar), C++ / C# / VB (Expert), SQL (Expert), Java (Prior), JavaScript (Expert), PHP (Expert), MATLAB (Academic)
 
-<h3> Programing Languages </h3>
-Python (expert), R (familiar) C++ & C# & VB (expert), SQL (expert),  JAVA (prior experience), JavaScript (expert), PHP (expert), MATLAB (prior experience)
+### ⚙️ Tools & Frameworks  
+Django, DRF, FastAPI, Flask, Redis, PostgreSQL, Docker Compose, Nginx, Kafka, Git, Tableau
 
-<h3>Tools</h3>
-Django, Django Rest Framework, Redis, PostgreSQL, Git, Fast API, Rest API,  Flask, Docker Compose, Nginx, Kafka, Tableau.
-
-<h3>Methodologies</h3>
+### 🧩 Methodologies  
 Agile, Scrum, Kanban, Scrumban (Jira, Trello)
 
-<h3>Design</h3>
-Microservice, Domain-Driven Design, Data-Driven Design, Data Visualization Design, and Most Design Patterns (MVC, TMP, Decorator).
+### 🧱 Architectures & Design  
+Microservices, DDD, Data-Driven Design, MVC, TMP, Decorator Patterns, Visualization Systems
 
-<h3>Front-End</h3>
-Html, CSS, JavaScript (JQuery), Bootstrap, and Data Visualization Tools
+### 🌐 Frontend  
+HTML, CSS, Bootstrap, jQuery, D3.js & other Data Visualization Libraries
 
-<h3>Familiar & Worked with</h3>
-Unit Testing, CDN, Kubernetes, Elasticsearch, Github, CI/CD, MongoDB, Apache, AWS, Numpy, Pandas, Matplotlib, Keras, Pytorch, ANN, PNN, CNN, Optimization, Classification, Clustering, Machine Learning, Deep Learning, Data Mining, Big Data.
+### 🧪 Familiar With  
+Unit Testing, CI/CD, Kubernetes, Elasticsearch, AWS, MongoDB, Apache, NumPy, Pandas, Matplotlib, PyTorch, Keras, CNN, Clustering, Optimization, Federated Learning, and Privacy-Preserving AI
 
+---
 
-<h2> My Main Repo on GitHub </h2>
+## 📂 Featured Repositories
 
-List of repositories I'm working on.
+### 📊 Data Science & AI
 
-- Section related to data science
+- [Amin University Data Science](https://github.com/aminzayer/Amin-University-Data-Science)
+- [Deep Learning](https://github.com/aminzayer/Deep-Learning)
+- [Data Mining](https://github.com/aminzayer/Data-Mining)
+- [K-Means](https://github.com/aminzayer/K-Means)
+- [DBSCAN Clustering](https://github.com/aminzayer/DBSCAN-Clustering-Python)
+- [KNN Regressor Evaluation](https://github.com/aminzayer/KNN-Regressor-Evalution)
+- [Hierarchical Clustering](https://github.com/aminzayer/Hiehierarchical-clustering)
+- [Iran Stock Prediction](https://github.com/aminzayer/Iran-Stock-Prediction)
+- [University Projects](https://github.com/aminzayer/University-Projects)
 
-    - <a href = 'https://github.com/aminzayer/Amin-University-Data-Science'>Amin University Data Science</a>
+### 🧑‍💻 Software Engineering
 
-    - <a href = 'https://github.com/aminzayer/Deep-Learning'>Deep Learning</a>
+- [My Python Code](https://github.com/aminzayer/My-Python-Code)
+- [Python Django](https://github.com/aminzayer/Pyhton-Django)
+- [Python Flask](https://github.com/aminzayer/Python-Flask)
+- [My PHP Code](https://github.com/aminzayer/My-PHP-Code)
+- [PHP Simple Cache Engine](https://github.com/aminzayer/PHP-Simple-Cache-Engine)
+- [C-Apps](https://github.com/aminzayer/C-Apps)
+- [CPPApps](https://github.com/aminzayer/CPPApps)
 
-    - <a href = 'https://github.com/aminzayer/Data-Mining'>Data Mining</a>
+---
 
-    - <a href = 'https://github.com/aminzayer/K-Means'>K-Means</a>
+## 📫 Connect with Me
 
-    - <a href = 'https://github.com/aminzayer/DBSCAN-Clustering-Python'>DBSCAN Clustering</a>
+<a href='https://www.linkedin.com/in/aminzayeromali'> <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> </a> 
+<a href='https://twitter.com/AminZayeromali'> <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/> </a> 
+<a href='https://aminzayer.ir/'> <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/> </a> 
+<a href='https://www.github.com/aminzayer'> <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/> </a> 
 
-    - <a href = 'https://github.com/aminzayer/KNN-Regressor-Evalution'>KNN Regressor Evalution</a>
+---
 
-    - <a href = 'https://github.com/aminzayer/Hiehierarchical-clustering'>Hiehierarchical clustering</a>
-
-    - <a href = 'https://github.com/aminzayer/Iran-Stock-Prediction'>Iran Stock Prediction</a>
-
-
-    - <a href = 'https://github.com/aminzayer/University-Projects'>University Projects (Academic & Traditional ML Algorithms)</a>
-
-- Section related to software engineering 
-
-    - <a href = 'https://github.com/aminzayer/My-Python-Code'>My Python Code</a>
-
-    - <a href = 'https://github.com/aminzayer/Pyhton-Django'>Pyhton Django</a>
-
-    - <a href = 'https://github.com/aminzayer/Python-Flask'>Python Flask</a>
-
-    - <a href = 'https://github.com/aminzayer/My-PHP-Code'>My PHP Code</a>
-
-    - <a href = 'https://github.com/aminzayer/PHP-Simple-Cache-Engine'>PHP Simple Cache Engine</a>
-
-    - <a href = 'https://github.com/aminzayer/C-Apps'>C-Apps</a>
-
-    - <a href = 'https://github.com/aminzayer/CPPApps'>CPPApps</a>
-
-
-<h2> Connect with me </h2>
-<a href = 'https://www.linkedin.com/in/aminzayeromali'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://twitter.com/AminZayeromali'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://aminzayer.ir/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/aminzayer'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<br>
-<br>
+## 📊 GitHub Stats & Metrics
 
 ![Metrics](https://raw.githubusercontent.com/aminzayer/aminzayer/main/github-metrics.svg)
 
