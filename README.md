@@ -21,7 +21,7 @@ Over the past decade, I’ve evolved from building classical ML models to design
 
 🔹 I recently led the integration of ChatGPT APIs with Retrieval-Augmented Generation (RAG) in a high-availability backend, where real-time inference demanded smart data routing and prompt engineering.
 
-🔹 In healthcare, I’ve driven development of LLM-based analytics tools using domain-tuned prompting and fine-tuning to improve patient outcomes.
+🔹 In healthcare, I’ve driven the development of LLM-based analytics tools using domain-tuned prompting and fine-tuning to improve patient outcomes.
 
 🔹 My engineering toolkit includes: Django, Redis, PostgreSQL, Docker, AWS, CI/CD pipelines - all optimized for production-level AI workloads.
 
@@ -39,23 +39,34 @@ Let’s connect if you’re working on:
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages  
-Python (Expert), R (Familiar), C++ / C# / VB (Expert), SQL (Expert), Java (Prior), JavaScript (Expert), PHP (Expert), MATLAB (Academic)
+### 💻 Programming Languages
+- **Expert:** Python, SQL, JavaScript, PHP, C++, C#, VB  
+- **Familiar:** R, MATLAB, Java
 
-### ⚙️ Tools & Frameworks  
-Django, DRF, FastAPI, Flask, Redis, PostgreSQL, Docker Compose, Nginx, Kafka, Git, Tableau
+### 🔧 Tools & Frameworks
+- **Back-End:** Django, Django REST Framework, FastAPI, Flask, Redis, PostgreSQL  
+- **Data Engineering:** ETL Pipelines, Airflow (if used), Kafka, Elasticsearch  
+- **DevOps:** Docker Compose, Nginx, CI/CD, Git, AWS (EC2, Lambda, Sagemaker, Textract), GCP  
+- **Monitoring & Deployment:** Linux (CentOS), High Availability Systems (99.9% uptime)
 
-### 🧩 Methodologies  
-Agile, Scrum, Kanban, Scrumban (Jira, Trello)
+### 🤖 Machine Learning & AI
+- **Core Skills:** NLP, Machine Learning, Deep Learning, Prompt Engineering  
+- **LLMs:** ChatGPT API, RAG Architectures, LangChain, Transformers (HuggingFace), Chain-of-Thought, Few-shot/Zero-shot prompting  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, Keras, PyTorch  
 
-### 🧱 Architectures & Design  
-Microservices, DDD, Data-Driven Design, MVC, TMP, Decorator Patterns, Visualization Systems
+### 🧠 System & Software Design
+- Microservices Architecture, Domain-Driven Design (DDD), Data-Driven Design  
+- Design Patterns: MVC, TMP, Decorator  
+- Semantic Search, Real-time Inference Systems
 
-### 🌐 Frontend  
-HTML, CSS, Bootstrap, jQuery, D3.js & other Data Visualization Libraries
+### 🎨 Front-End & Visualization
+- HTML, CSS, Bootstrap, JavaScript (jQuery), D3.js  
+- Interactive Dashboards & Data Visualizations (Tableau, Custom JS)
 
-### 🧪 Familiar With  
-Unit Testing, CI/CD, Kubernetes, Elasticsearch, AWS, MongoDB, Apache, NumPy, Pandas, Matplotlib, PyTorch, Keras, CNN, Clustering, Optimization, Federated Learning, and Privacy-Preserving AI
+### 🧪 Agile Practices & Team Tools
+- Agile, Scrum, Kanban, Scrumban  
+- Project Management: Jira, Trello  
+- Cross-functional Team Leadership & Mentoring
 
 ---
 
