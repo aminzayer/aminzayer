@@ -107,7 +107,3 @@ Let’s connect if you’re working on:
 ## 📊 GitHub Stats & Metrics
 
 ![Metrics](https://raw.githubusercontent.com/aminzayer/aminzayer/main/github-metrics.svg)
-
-![Amin's github stats](https://github-readme-stats.vercel.app/api?username=aminzayer&show_icons=true&theme=tokyonight) | ![Amin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminzayer&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminzayer&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=aminzayer&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
