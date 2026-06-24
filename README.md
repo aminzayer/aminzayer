@@ -1,11 +1,13 @@
 # Amin Zay-eromali — Senior System Architect & Full Stack Data Scientist
 
 <p align="center">
-  <samp><strong>Amin Zay-eromali</strong></samp>
+  <strong>Amin Zayeromali</strong>
   <br/>
-  <samp>Principal AI Architect & Senior Systems Engineer</samp>
+  <em>Principal AI Architect & Senior Systems Engineer</em>
   <br/><br/>
-  <strong>Designing Model-Agnostic AI Infrastructure, Agentic RAG Pipelines, and High-Throughput Data Systems</strong>
+  <strong>
+    Designing Model-Agnostic AI Infrastructure, Agentic RAG Pipelines, and High-Throughput Data Systems
+  </strong>
   <br/><br/>
   <a href="https://www.linkedin.com/in/aminzayeromali"><img src="https://img.shields.io/badge/LinkedIn-aminzayeromali-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/aminzayer"><img src="https://img.shields.io/github/followers/aminzayer?label=Follow&style=flat-square&logo=github&logoColor=white&color=181717" alt="GitHub followers"/></a>
@@ -88,8 +90,6 @@ Currently leading the architecture of a distributed microservice platform handli
 
 ## 🏗️ Featured Projects — Model-Agnostic AI Infrastructure & Agentic RAG Portfolio
 
-<br/>
-
 ### [`llm-universal-adapter`](https://github.com/aminzayer/llm-universal-adapter) — Model-Agnostic LLM Abstraction Layer
 
 > Eliminates vendor lock-in by providing a universal interface for swapping backend LLM providers in production without rewriting downstream business logic.
@@ -104,8 +104,6 @@ Currently leading the architecture of a distributed microservice platform handli
 <br/>
 
 ---
-
-<br/>
 
 ### [`SelfEdifyAI`](https://github.com/aminzayer/SelfEdifyAI) — Autonomous Knowledge Acquisition Engine
 
@@ -122,8 +120,6 @@ Currently leading the architecture of a distributed microservice platform handli
 
 ---
 
-<br/>
-
 ### [`LegalSense-AI-Assistant`](https://github.com/aminzayer/LegalSense-AI-Assistant) — Domain-Specific Agentic RAG for Legal Document Analysis
 
 > Production-oriented semantic analysis engine for legal documents, applying retrieval-augmented generation to extract structured insights from unstructured legal corpora.
@@ -138,8 +134,6 @@ Currently leading the architecture of a distributed microservice platform handli
 <br/>
 
 ---
-
-<br/>
 
 ### [`Semantic-Law-Project`](https://github.com/aminzayer/Semantic-Law-Project) — Semantic Relevance Classification Engine
 
