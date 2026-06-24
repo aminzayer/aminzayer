@@ -1,9 +1,9 @@
-# Senior AI Systems Architect & Full Stack Data Scientist - Amin Zay-eromali
+# Amin Zayeromali - Principal AI Architect & AI Systems Engineer
 
 <p align="center">
   <samp><strong>Amin Zay-eromali</strong></samp>
   <br/>
-  <samp>Principal AI Architect & Senior Systems Engineer</samp>
+  <samp>Principal AI Architect & AI Systems Engineer</samp>
   <br/><br/>
   <strong>Designing Model-Agnostic AI Infrastructure, Agentic RAG Pipelines, and High-Throughput Data Systems</strong>
   <br/><br/>
