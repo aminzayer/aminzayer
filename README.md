@@ -1,13 +1,11 @@
-# Amin Zay-eromali — Senior System Architect & Full Stack Data Scientist
+# Senior AI Systems Architect & Full Stack Data Scientist - Amin Zay-eromali
 
 <p align="center">
-  <strong>Amin Zayeromali</strong>
+  <samp><strong>Amin Zay-eromali</strong></samp>
   <br/>
-  <em>Principal AI Architect & Senior Systems Engineer</em>
+  <samp>Principal AI Architect & Senior Systems Engineer</samp>
   <br/><br/>
-  <strong>
-    Designing Model-Agnostic AI Infrastructure, Agentic RAG Pipelines, and High-Throughput Data Systems
-  </strong>
+  <strong>Designing Model-Agnostic AI Infrastructure, Agentic RAG Pipelines, and High-Throughput Data Systems</strong>
   <br/><br/>
   <a href="https://www.linkedin.com/in/aminzayeromali"><img src="https://img.shields.io/badge/LinkedIn-aminzayeromali-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/aminzayer"><img src="https://img.shields.io/github/followers/aminzayer?label=Follow&style=flat-square&logo=github&logoColor=white&color=181717" alt="GitHub followers"/></a>
