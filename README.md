@@ -1,3 +1,5 @@
+# Amin Zay-eromali — Senior System Architect & Full Stack Data Scientist
+
 <p align="center">
   <samp><strong>Amin Zay-eromali</strong></samp>
   <br/>
@@ -12,7 +14,7 @@
 
 <br/>
 
-## 📋 Professional Summary
+## 📋 Senior System Architect — Professional Summary
 
 Principal AI Architect and Full Stack Data Scientist with **10+ years** of experience engineering production-grade AI systems across healthcare, fintech, and enterprise SaaS. Core expertise in **Agentic RAG architectures**, **model-agnostic LLM infrastructure**, **custom Knowledge Graph engineering**, and **high-throughput data pipelines** — deployed at scale on AWS and GCP.
 
@@ -20,9 +22,9 @@ Currently leading the architecture of a distributed microservice platform handli
 
 ---
 
-## 🛠️ Core Competencies
+## 🛠️ Core Competencies — Model-Agnostic AI Infrastructure & Engineering Stack
 
-### AI Architecture & LLM Infrastructure
+### Agentic RAG Systems & LLM Infrastructure
 `Agentic RAG (LangChain · LangGraph)` · `Model-Agnostic Universal Adapter Design` · `Hierarchical Retrieval (Topic → Dataset → Chunk)` · `LLM Observability (LangSmith · Arize · Phoenix)` · `Prompt Engineering (Structured Outputs · HITL · CoT · Few-shot)` · `Federated Learning` · `Vector Database Optimization (Pinecone · LlamaIndex)`
 
 <p>
@@ -50,7 +52,7 @@ Currently leading the architecture of a distributed microservice platform handli
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
 </p>
 
-### Data Engineering & Knowledge Systems
+### Data Engineering & Knowledge Graph Systems
 `ETL/ELT Pipeline Architecture` · `Custom Graph Traversal Algorithms` · `Semantic Relation Mapping` · `Ontology Design & Schema Modeling` · `Unstructured & Multi-modal Data Processing (OCR · PDF · Blueprints)` · `Elasticsearch Index Engineering`
 
 <p>
@@ -60,7 +62,7 @@ Currently leading the architecture of a distributed microservice platform handli
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
-### Machine Learning & Data Science
+### Full Stack Data Science — Machine Learning & NLP
 `NLP & Semantic Search` · `TensorFlow` · `PyTorch` · `Scikit-learn` · `HuggingFace Transformers` · `Time-Series Forecasting (LSTM)` · `Predictive Modeling` · `BERT Extractive Summarization` · `DBSCAN · K-Means · Hierarchical Clustering`
 
 <p>
@@ -71,7 +73,7 @@ Currently leading the architecture of a distributed microservice platform handli
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
 </p>
 
-### System Design & Technical Leadership
+### System Architecture & Technical Leadership
 `Distributed Microservices Architecture` · `Domain-Driven Design` · `Design Patterns (MVC · Decorator · TMP)` · `Cross-Functional Team Leadership` · `Agile · Scrum · Kanban` · `MLOps Best Practices`
 
 <p>
@@ -84,7 +86,7 @@ Currently leading the architecture of a distributed microservice platform handli
 
 ---
 
-## 🏗️ Featured Projects — Architectural Portfolio
+## 🏗️ Featured Projects — Model-Agnostic AI Infrastructure & Agentic RAG Portfolio
 
 <br/>
 
@@ -122,7 +124,7 @@ Currently leading the architecture of a distributed microservice platform handli
 
 <br/>
 
-### [`LegalSense-AI-Assistant`](https://github.com/aminzayer/LegalSense-AI-Assistant) — Domain-Specific RAG for Legal Document Analysis
+### [`LegalSense-AI-Assistant`](https://github.com/aminzayer/LegalSense-AI-Assistant) — Domain-Specific Agentic RAG for Legal Document Analysis
 
 > Production-oriented semantic analysis engine for legal documents, applying retrieval-augmented generation to extract structured insights from unstructured legal corpora.
 
@@ -154,7 +156,7 @@ Currently leading the architecture of a distributed microservice platform handli
 
 ---
 
-## 💡 Development Philosophy
+## 💡 Development Philosophy — Production-Grade Engineering & Scalable System Design
 
 > I engineer AI systems that **ship to production**, not just pass a demo. Every architecture decision optimizes for reliability under load, clean separation of concerns, and the ability to swap any component — from the LLM provider to the vector store — without rewriting the system around it.
 
