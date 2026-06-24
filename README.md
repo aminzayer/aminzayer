@@ -1,4 +1,4 @@
-# Amin Zayeromali — Principal AI Architect & Senior System Architect
+# Amin Zay-eromali — Principal AI Architect & Senior System Architect
 
 <p align="center">
   <samp><strong>Amin Zayeromali</strong></samp>
